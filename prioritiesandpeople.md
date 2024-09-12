@@ -12,13 +12,17 @@
 
 -   Change in procurement process - Saturday/ Sunday - Only salman
 -   Monday -Friday - Team(Ashish) Bowenpalli (Fish included)
--   Salman to implement Beans / Capsicum project (Rajkumarji)
--   Implement more chickens asap
--   Implement male Cow
--   Implement Fish in small capacity 
--   Execute Murmura machine and production
--   Implement long term storage of onions / ginger / garlic
--   Implement Oil / Masala making machine
+-   Sat/ Sunday full team work on deliveries
+-   Friday Massive digital campaigns and discounts for Saturday
+-   Salman to implement 
+    -   Beans / Capsicum project (Rajkumarji)
+    -   Implement more chickens asap
+    -   Implement male Cow
+    -   Implement Fish in small capacity
+    -   Implement Capsicum nursery in Atmakur High Land
+    -   Execute Murmura machine and production
+    -   Implement long term storage of onions / ginger / garlic
+    -   Implement Oil / Masala making machine
 
 # Peoplewise responsibilities
 
