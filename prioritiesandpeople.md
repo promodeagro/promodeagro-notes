@@ -14,6 +14,8 @@
 -   Monday -Friday - Team(Ashish) Bowenpalli (Fish included)
 -   Sat/ Sunday full team work on deliveries
 -   Friday Massive digital campaigns and discounts for Saturday
+-   Release ecom asap
+-   Focus on Digital Marketing
 -   Salman to implement 
     -   Beans / Capsicum project (Rajkumarji)
     -   Implement more chickens asap
