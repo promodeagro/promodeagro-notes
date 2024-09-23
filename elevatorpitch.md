@@ -47,3 +47,6 @@ You can have a margin of 25% operating profit if you can optimize.
 
 
 
+## Business Model Canvas Matrix
+
+![alt text](image.png)
