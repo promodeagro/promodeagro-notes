@@ -26,3 +26,4 @@
 More than 299 Rs Delivery Free
 
 Otherwise flat delivery charges 49 Rs
+
