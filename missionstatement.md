@@ -13,7 +13,7 @@
 
 ## Mission
 
-Produce affordable regional organic food for migrant Bengali Community using BioDynamic Farming.
+Produce affordable regional organic food for migrant Bengali Community in Hyderabad using BioDynamic Farming.
 
 ## Vision 
 
