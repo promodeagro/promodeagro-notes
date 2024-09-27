@@ -17,7 +17,7 @@ Produce affordable regional organic food for migrant Bengali Community in Hydera
 
 ## Vision 
 
-Utlize abundant Low Cost Lands and Biodynamic farming and produce affordable organic food and deliver it with a optimized digital ecosystem.
+Utlize abundant Low Cost Lands and do Biodynamic farming and produce affordable organic food and deliver it with a optimized digital ecosystem.
 
 ## Strategy
 
