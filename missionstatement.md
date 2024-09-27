@@ -13,23 +13,21 @@
 
 ## Mission
 
-Produce Healthy Food at Optimal Cost using BioDynamic Farming and create Jobs.
+Produce affordable regional organic food for migrant Bengali Community using BioDynamic Farming.
 
 ## Vision 
 
-Utlize Low Cost Waste Lands,Apply Biodynamic farming and produce healthy food at Optimal Cost and deliver it with a optimized digital ecosystem.
+Utlize abundant Low Cost Lands and Biodynamic farming and produce affordable organic food and deliver it with a optimized digital ecosystem.
 
 ## Strategy
 
-Applying Biodynamic system,produce rare and low risk regional vegetables like creepers and develop customer base.Then keep delivering value added services like more foods and groceries.Gain maturity in Biodynamic system and produce export ready crops and scale up livestock ecosystem.
-Gradually distribute ready made food to reduce waste.
+Take low-cost in lease and apply Biodynamic system,produce rare and low risk regional vegetables like creepers and develop customer base.Then keep delivering value added services groceries and snacks.Gain maturity in Biodynamic system and produce export ready crops and scale up livestock ecosystem.Gradually create a sustainable economic system with Regional Foods/ Livestocks / Affordable Organics / Exports.
 
 ## Goals
 
-A complete natural healthy food is delivered directly to end users at a optimal cost.
+Deliver affordable organic food which are rarely available.
 
 ## Roadmap 
-
 -   Focus on low risks creepers and regional choices.
 -   Focus on livestock to have a sustainable econimic system.
 -   Produce complete Agriculture Management Suite of products for digital ecosystem.
@@ -38,14 +36,16 @@ A complete natural healthy food is delivered directly to end users at a optimal 
 
 ## Execution 
 
-Start with 1 land and apply the biodynamic ecosystem and establish digital ecosystem to optimize the outcome and create a ecomically viable system and scale it up.Initially focus 
-on export products.
+Start with 1 land and apply the biodynamic ecosystem and establish digital ecosystem to optimize the outcome and create a ecomically viable system and scale it up.Initially focus on low risk creepers.
 
-Next tap the regional(Bengali) food market and focus on creepers that is low risk and hig demand.
+Develop a sustainable live stock ecosystem.
+
+Next tap the export market.
 
 Esatblish the E2E digital ecosystem to scale this up.
 
 Example Canvas:
+
 ![alt text](image-1.png)
 
 
@@ -104,10 +104,9 @@ Cost Structure
   
 Revenue Streams
 - Rs/Order
-- Export
+- Exports
 
-
-
+Finacials:
 
 
 
