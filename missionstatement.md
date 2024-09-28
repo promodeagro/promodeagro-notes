@@ -7,6 +7,15 @@
   - [Roadmap](#roadmap)
   - [Execution](#execution)
   - [Business Model Canvas](#business-model-canvas)
+- [For PPT --](#for-ppt---)
+- [Page 1 - Start](#page-1---start)
+- [Page 2 - Brief Problem](#page-2---brief-problem)
+- [Page3 - Brief On Us](#page3---brief-on-us)
+- [Page 4 - Problem Details](#page-4---problem-details)
+- [Page 5 - Solution Details](#page-5---solution-details)
+- [Page 6 - Different Use Cases](#page-6---different-use-cases)
+- [Papaya/ Moringa -1L/M               Exports - 2L/M](#papaya-moringa--1lm---------------exports---2lm)
+  - [Interest 1L](#interest-1l)
 <!-- /TOC -->
 
 # Key Statements
@@ -21,11 +30,11 @@ Utlize abundant Low Cost Lands and Biodynamic farming and produce affordable org
 
 ## Strategy
 
-Take low-cost in lease and apply Biodynamic system,produce rare and low risk regional vegetables like creepers and develop customer base.Then keep delivering value added services groceries and snacks.Gain maturity in Biodynamic system and produce export ready crops and scale up livestock ecosystem.Gradually create a sustainable economic system with Regional Foods/ Livestocks / Affordable Organics / Exports.
+Take low-cost lands in lease and apply Biodynamic system,produce rare and low risk regional vegetables like creepers and develop customer base.Then keep delivering value added services groceries and snacks.Gain maturity in Biodynamic system and produce export ready crops and scale up livestock ecosystem.Gradually create a sustainable economic system with Regional Foods/ Livestocks / Affordable Organics / Exports.
 
 ## Goals
 
-Deliver affordable organic food which are rarely available.
+Deliver rare regional affordable organic foods to migrant Bengalis.
 
 ## Roadmap 
 -   Focus on low risks creepers and regional choices.
@@ -109,5 +118,77 @@ Revenue Streams
 Finacials:
 
 
+# For PPT --
+Bongobasi.com
 
-    
+# Page 1 - Start 
+
+Home Away from Home for Migrant Bengalis in Hyderabad
+
+# Page 2 - Brief Problem
+
+10 Lacs Bengali population in Hyderabad.10% of them ready to spend more for their Regional Foods
+
+Less than 1% demand is met with current supply.
+
+# Page3 - Brief On Us
+Bongobasi.com -
+
+Produce rare regional affordable organic foods using Bio Dynamic farming and distribute to migrant Bengalis through a digital platform.
+
+# Page 4 - Problem Details
+
+Less than 1% of Bengali Migrants get access to Bengali Foods. They are super costly , imported.There are no hyderabad based Digital Platform.
+
+Why low availability -
+
+Difficult to produce them locally , need bengal expertise.Transport cost is high and risky.
+
+# Page 5 - Solution Details
+
+Bongobasi - Producing Locally + Quality + Affordability + E2E Digital Ecosystem
+
+# Page 6 - Different Use Cases
+
+Dialy Vegetables / Groceries / Fish / Livestock / Duck Eggs / Puja Items
+
+1000 + Customers 1300 Orders / M
+
+MRR - 585000
+  Avg 80 Orders/Day in Weekend @600 Rs
+  Avg 40 Orders/ Day in Week Days @300 Rs
+  20-60% Margin - Avg 40%
+  15% Wastage
+  25% Gross Margin /Order
+
+1300 Orders/ M - Avg 450 Rs          4000 Order / 450 Rs --18L
+
+Livestocks - 1L/M                    Livestock - 3L/M                 
+  Country Chicken -70k
+  Live Stock -- 30k
+
+Papaya/ Moringa -1L/M               Exports - 2L/M
+====================
+7.85L
+
+
+Opex::
+  Land 40k/M
+  Employees-1.8L/M -4L
+  Digital Ecosystem- 2.2L/M
+  Maintenance - 75K/M
+  Procurement - 3L -- 9L
+  Supply Chain- 50k
+  Other 50k
+  Interest 1L
+------------------------------
+9.15L
+
+Competitors:
+
+https://thestateplate.com/
+https://bonghaat.com/
+https://indiacuisine.net/
+Amazon Bengali Sections
+https://homefoodi.com/
+https://www.kolkatasholoana.com/
