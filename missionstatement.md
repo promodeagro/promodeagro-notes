@@ -14,8 +14,10 @@
 - [Page 4 - Problem Details](#page-4---problem-details)
 - [Page 5 - Solution Details](#page-5---solution-details)
 - [Page 6 - Different Use Cases](#page-6---different-use-cases)
-- [Papaya/ Moringa -1L/M               Exports - 2L/M](#papaya-moringa--1lm---------------exports---2lm)
-  - [Interest 1L](#interest-1l)
+- [Page 7 - GTM Strategy](#page-7---gtm-strategy)
+- [History](#history)
+- [Page 8 -](#page-8--)
+- [Next Quarter Targets with Digital Ecosystem and Livestock focus](#next-quarter-targets-with-digital-ecosystem-and-livestock-focus)
 <!-- /TOC -->
 
 # Key Statements
@@ -146,43 +148,115 @@ Difficult to produce them locally , need bengal expertise.Transport cost is high
 
 # Page 5 - Solution Details
 
-Bongobasi - Producing Locally + Quality + Affordability + E2E Digital Ecosystem
+Bongobasi - 
+  - Producing Locally -Able to emulate Bengali Ecosystem in Hyderabad (Nature+ Expertise)
+  - Quality - People know us now for Quality
+  - Affordability - First time affordable Bengali Foods that is Organic
+  - E2E Digital Ecosystem - A complete E2E Digital platform ensuring direct F2C program
 
 # Page 6 - Different Use Cases
 
-Dialy Vegetables / Groceries / Fish / Livestock / Duck Eggs / Puja Items
+Dialy Vegetables - Bengali Veggeies and Leafy specific that is rare.
+Groceries - Catering Bengali Grocery Needs Also in Existing customers base
+Fish - Beramuda / Singhi / Bhola / Koi / Tangra - local production of regional fishes 
+Livestock - Hen Eggs , Desi Chicken , Duck Eggs, Black Bengal Goats
+Puja Items -Specific Puja Packages 
 
-1000 + Customers 1300 Orders / M
+# Page 7 - GTM Strategy
 
-MRR - 585000
-  Avg 80 Orders/Day in Weekend @600 Rs
-  Avg 40 Orders/ Day in Week Days @300 Rs
-  20-60% Margin - Avg 40%
-  15% Wastage
-  25% Gross Margin /Order
+Rare Vegetables : Tap Bengali Customers Bases with rare vegetables like creepers
+Rare Groceries / Snacks - Increase sales volume with rare groceries and snacks
+Livestock - Penetrate more with Free Roaming Eggs / Duck Eggs / Desi Chicken / Goats
+Export - Export our successful product papaya/drumsticks
 
-1300 Orders/ M - Avg 450 Rs          4000 Order / 450 Rs --18L
+# History 
 
-Livestocks - 1L/M                    Livestock - 3L/M                 
-  Country Chicken -70k
-  Live Stock -- 30k
+2021 - Started with a 13 Acre Farm for our own needs
+2022-  Major Learning Process
+2023-  Some Succesful Products + Customer Aquisitions  
+2024-  Customer Retention / Digitization / Zeroing Loss
+2025-  Profitable Model - Repeat success.
 
-Papaya/ Moringa -1L/M               Exports - 2L/M
-====================
-7.85L
+Success -
+  1. Bengali Creepers & Bengali Specialities
+  2. Papaya && Drumsticks
+  3. livestock
+  4. Digital Ecosystem & Partnering
+
+Failures -  
+
+  - Rice / Daal / Pulses / Corn
+  - Some leafy Bengali vegetables
+  - High Coverage Vs High Care
+
+# Page 8 - 
+
+Strong Validated Metrics
+
+Customer Base - 1000 
+Monthly Order Volume -1300 
+Average Order Value-450 Rs (veg + Grocery)
+Margin -10-50% 
+Avg Margin - 35% 
+Wastage - 15%
+Grosss Margin- 20%
+
+MRR - 6.7L
+  Vegetable / Grocery Sales - 5800000/M
+  Livestock -20K/M - (Eggs Sale)
+  Papaya/Drumstick Sales/Creeper Sales -70K/M
+
+Opex -11.1L
+    Digital Ecosystem- 2.2L/M
+    Field Employees-1.8L/M 
+    Procurements - 4L/M
+    Land Lease -40k/M
+    House Rent 60K/M
+    Vehicle Maintenance-50k/M
+    Vehicle Loans-60k/M
+    Farm Maintenance -50k/M
+    Capital Interest- 50K/M
+
+2024-25- Q2 --MRR-6.7L Opex-11.1L(O(1200/M)+ L(20K)+A(70k)
+
+2024-25- Q3 --MRR- 12L Opex -13L (O(2500)+ L(70K)+A(1L))
+
+2024-25- Q4 --MRR- 21L Opex -18L (O(4000)+ L(1L)+A(2L)))
+
+Total Market Size -- 
+    O-200000/M  100 Crore/Yr- HYD
+    Livestock - 1000 Crore
+    Export    - 2000 Crore
 
 
-Opex::
-  Land 40k/M
-  Employees-1.8L/M -4L
-  Digital Ecosystem- 2.2L/M
-  Maintenance - 75K/M
-  Procurement - 3L -- 9L
-  Supply Chain- 50k
-  Other 50k
-  Interest 1L
-------------------------------
-9.15L
+
+#  Next Quarter Targets with Digital Ecosystem and Livestock focus
+
+Customer Base - 1500 
+Monthly Order Volume -4000
+Average Order Value-450 Rs  
+Margin -20-50% 
+Avg Margin - 40% 
+Wastage - 5%
+Grosss Margin- 35%
+
+MRR - 21L/M
+  Vegetable / Grocery Sales - 18L/M
+  Livestock -1L/M - (Eggs Sale/Desi Chicken)
+  Papaya/Drumstick Sales/Creeper Sales -2L/M
+
+Opex - 18.1L
+    Digital Ecosystem- 2.2L/M
+    Field Employees-4L/M 
+    Procurements - 8L/M
+    Land Lease -40k/M
+    House Rent 60K/M
+    Vehicle Maintenance-50k/M
+    Vehicle Loans-60k/M
+    Farm Maintenance -50k/M
+    Capital Interest- 50K/M
+    Sales Effort-1L
+
 
 Competitors:
 
@@ -192,3 +266,12 @@ https://indiacuisine.net/
 Amazon Bengali Sections
 https://homefoodi.com/
 https://www.kolkatasholoana.com/
+
+Assets -
+- 1000 Customers Base
+- Branded As High Quality 
+- Two super quality products(papaya and Moringa)
+- Successfull Creeper Production
+- Successful Livestock Ecosystem
+- Channel / Partnership (F2C)
+- Vehicles && Accessories
