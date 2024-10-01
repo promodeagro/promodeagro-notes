@@ -200,6 +200,13 @@ Margin -10-50%
 Avg Margin - 35% 
 Wastage - 15%
 Grosss Margin- 20%
+CAC-Customer acquisition cost-400
+LTV- lifetime value per customer- 2L
+ARPU(Average Revenue Per User)
+Customer Churn Rate -
+
+![alt text](image-3.png)
+
 
 MRR - 6.7L
   Vegetable / Grocery Sales - 5800000/M
@@ -259,13 +266,19 @@ Opex - 18.1L
 
 
 Competitors:
-
+India Cuisine https://indiacuisine.net/
+Bhojohori Manna
+https://www.bengalsouk.com/
 https://thestateplate.com/
 https://bonghaat.com/
 https://indiacuisine.net/
 Amazon Bengali Sections
 https://homefoodi.com/
 https://www.kolkatasholoana.com/
+https://www.bongoruchi.com/
+https://www.bongmela.com/
+Vegrow
+Deep Rooted.Co
 
 Assets -
 - 1000 Customers Base
