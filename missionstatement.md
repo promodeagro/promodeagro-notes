@@ -129,9 +129,10 @@ Home Away from Home for Migrant Bengalis in Hyderabad
 
 # Page 2 - Brief Problem
 
-10 Lacs Bengali population in Hyderabad.10% of them ready to spend more for their Regional Foods
-
-Less than 1% demand is met with current supply.
+- 10 Lacs Bengali population in Hyderabad.
+- 10% of them ready to spend more for their Regional Foods
+  
+- Less than 1% demand is met with current supply.
 
 # Page3 - Brief On Us
 Bongobasi.com -
@@ -149,6 +150,7 @@ Difficult to produce them locally , need bengal expertise.Transport cost is high
 # Page 5 - Solution Details
 
 Bongobasi - 
+
   - Producing Locally -Able to emulate Bengali Ecosystem in Hyderabad (Nature+ Expertise)
   - Quality - People know us now for Quality
   - Affordability - First time affordable Bengali Foods that is Organic
@@ -164,10 +166,10 @@ Puja Items -Specific Puja Packages
 
 # Page 7 - GTM Strategy
 
-Rare Vegetables : Tap Bengali Customers Bases with rare vegetables like creepers
-Rare Groceries / Snacks - Increase sales volume with rare groceries and snacks
-Livestock - Penetrate more with Free Roaming Eggs / Duck Eggs / Desi Chicken / Goats
-Export - Export our successful product papaya/drumsticks
+- Rare Vegetables : Tap Bengali Customers Bases with rare vegetables like creepers
+- Rare Groceries / Snacks - Increase sales volume with rare groceries and snacks
+- Livestock - Penetrate more with Free Roaming Eggs / Duck Eggs / Desi Chicken / Goats
+- Export - Export our successful product papaya/drumsticks
 
 # History 
 
@@ -178,61 +180,82 @@ Export - Export our successful product papaya/drumsticks
 2025-  Profitable Model - Repeat success.
 
 Success -
+
   1. Bengali Creepers & Bengali Specialities
+   
   2. Papaya && Drumsticks
+   
   3. livestock
+   
   4. Digital Ecosystem & Partnering
 
 Failures -  
 
   - Rice / Daal / Pulses / Corn
+  
   - Some leafy Bengali vegetables
+  
   - High Coverage Vs High Care
 
 # Page 8 - 
 
 Strong Validated Metrics
 
-Customer Base - 1000 
-Monthly Order Volume -1300 
-Average Order Value-450 Rs (veg + Grocery)
-Margin -10-50% 
-Avg Margin - 35% 
-Wastage - 15%
-Grosss Margin- 20%
-CAC-Customer acquisition cost-400
-LTV- lifetime value per customer- 2L
-ARPU(Average Revenue Per User)
-Customer Churn Rate -
+- Customer Base - 1000 
+- Monthly Order Volume -1300 
+- Average Order Value-450 Rs (veg + Grocery)
+- Margin -10-50% 
+- Avg Margin - 35% 
+- Wastage - 15%
+- Grosss Margin- 20%
+- CAC-Customer acquisition cost-400
+- LTV- lifetime value per customer- 2L
+- ARPU(Average Revenue Per User)
+- Customer Churn Rate -50%
 
 ![alt text](image-3.png)
 
 
 MRR - 6.7L
   Vegetable / Grocery Sales - 5800000/M
+  
   Livestock -20K/M - (Eggs Sale)
+  
   Papaya/Drumstick Sales/Creeper Sales -70K/M
 
 Opex -11.1L
     Digital Ecosystem- 2.2L/M
+    
     Field Employees-1.8L/M 
+    
     Procurements - 4L/M
+    
     Land Lease -40k/M
+    
     House Rent 60K/M
+    
     Vehicle Maintenance-50k/M
+    
     Vehicle Loans-60k/M
+    
     Farm Maintenance -50k/M
+    
     Capital Interest- 50K/M
 
 2024-25- Q2 --MRR-6.7L Opex-11.1L(O(1200/M)+ L(20K)+A(70k)
 
+
 2024-25- Q3 --MRR- 12L Opex -13L (O(2500)+ L(70K)+A(1L))
+
 
 2024-25- Q4 --MRR- 21L Opex -18L (O(4000)+ L(1L)+A(2L)))
 
 Total Market Size -- 
+
     O-200000/M  100 Crore/Yr- HYD
+
     Livestock - 1000 Crore
+
     Export    - 2000 Crore
 
 
@@ -240,47 +263,106 @@ Total Market Size --
 #  Next Quarter Targets with Digital Ecosystem and Livestock focus
 
 Customer Base - 1500 
+
 Monthly Order Volume -4000
-Average Order Value-450 Rs  
+
+Average Order Value-450 Rs 
+
 Margin -20-50% 
+
 Avg Margin - 40% 
+
 Wastage - 5%
+
 Grosss Margin- 35%
 
 MRR - 21L/M
+
   Vegetable / Grocery Sales - 18L/M
+
   Livestock -1L/M - (Eggs Sale/Desi Chicken)
+
   Papaya/Drumstick Sales/Creeper Sales -2L/M
 
 Opex - 18.1L
+
     Digital Ecosystem- 2.2L/M
+
     Field Employees-4L/M 
+
     Procurements - 8L/M
+
     Land Lease -40k/M
+
     House Rent 60K/M
+
     Vehicle Maintenance-50k/M
+
     Vehicle Loans-60k/M
+
     Farm Maintenance -50k/M
+
     Capital Interest- 50K/M
+
     Sales Effort-1L
 
 
 Competitors:
-India Cuisine https://indiacuisine.net/
-Bhojohori Manna
-https://www.bengalsouk.com/
-https://thestateplate.com/
-https://bonghaat.com/
+
+Only Bengali Online providers
+
+============================
+India Cuisine 
 https://indiacuisine.net/
+
+Bhojohori Manna
+
+https://www.bengalsouk.com/
+
+https://thestateplate.com/
+
+https://bonghaat.com/
+
+https://indiacuisine.net/
+
 Amazon Bengali Sections
+
 https://homefoodi.com/
+
 https://www.kolkatasholoana.com/
+
 https://www.bongoruchi.com/
+
 https://www.bongmela.com/
+
+All of them super costly and less available.
+
+===============================================
+
+Few F2C Companies are doing good- but not catering rare foods
+
+Fraazo
+VNF
 Vegrow
 Deep Rooted.Co
+Gourmet Garden
+KisanConnect
+pluckk
+GreenKart
+KisanServe
+
+Livestock companies --
+
+Massively invested and doing good--
+
+Licious
+FreshToHome
+
+Nobody is producing bengali locally or having a strong digital ecosystem and supply chains.
+
 
 Assets -
+
 - 1000 Customers Base
 - Branded As High Quality 
 - Two super quality products(papaya and Moringa)
