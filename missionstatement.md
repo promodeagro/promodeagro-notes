@@ -18,6 +18,10 @@
 - [History](#history)
 - [Page 8 -](#page-8--)
 - [Next Quarter Targets with Digital Ecosystem and Livestock focus](#next-quarter-targets-with-digital-ecosystem-and-livestock-focus)
+  - [Only Bengali Online providers](#only-bengali-online-providers)
+- [Non Veg Online companies --](#non-veg-online-companies---)
+  - [Massively invested and doing good--](#massively-invested-and-doing-good--)
+- [Assets -](#assets--)
 <!-- /TOC -->
 
 # Key Statements
@@ -309,13 +313,12 @@ Opex - 18.1L
 
 Competitors:
 
-Only Bengali Online providers
-
 ============================
-India Cuisine 
-https://indiacuisine.net/
+## Only Bengali Online providers
 
-Bhojohori Manna
+India Cuisine -https://indiacuisine.net/
+
+Bhojohori Manna- https://bhojohorimanna.com/
 
 https://www.bengalsouk.com/
 
@@ -335,7 +338,7 @@ https://www.bongoruchi.com/
 
 https://www.bongmela.com/
 
-All of them super costly and less available.
+* All of them super costly and less available. *
 
 ===============================================
 
@@ -351,17 +354,17 @@ pluckk
 GreenKart
 KisanServe
 
-Livestock companies --
+# Non Veg Online companies --
 
-Massively invested and doing good--
+## Massively invested and doing good--
 
 Licious
 FreshToHome
 
-Nobody is producing bengali locally or having a strong digital ecosystem and supply chains.
+* Nobody is producing bengali food locally or having a strong digital ecosystem and supply chains. *
 
 
-Assets -
+# Assets -
 
 - 1000 Customers Base
 - Branded As High Quality 
