@@ -358,8 +358,8 @@ Few F2C Companies are doing good- but not catering rare foods
 
 ## Massively invested and doing good--
 
-Licious
-FreshToHome
+- Licious
+- FreshToHome
 
 * Nobody is producing bengali food locally or having a strong digital ecosystem and supply chains. *
 
