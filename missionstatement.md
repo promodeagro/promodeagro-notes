@@ -344,15 +344,15 @@ https://www.bongmela.com/
 
 Few F2C Companies are doing good- but not catering rare foods
 
-Fraazo
-VNF
-Vegrow
-Deep Rooted.Co
-Gourmet Garden
-KisanConnect
-pluckk
-GreenKart
-KisanServe
+- Fraazo
+- VNF
+- Vegrow
+- Deep Rooted.Co
+- Gourmet Garden
+- KisanConnect
+- pluckk
+- GreenKart
+- KisanServe
 
 # Non Veg Online companies --
 
