@@ -1,8 +1,18 @@
 
 - [Promodeagro key focus](#promodeagro-key-focus)
-- [Some immediate changes ](#some-immediate-changes)
-- [Peoplewise responsibilities ](#peoplewise-responsibilities)
-- [Salman](#salman)
+- [Some immediate changes](#some-immediate-changes)
+- [Peoplewise responsibilities](#peoplewise-responsibilities)
+  - [](#)
+  - [Salman](#salman)
+  - [Ashis](#ashis)
+  - [Akbar](#akbar)
+  - [Papu](#papu)
+  - [Uttam](#uttam)
+  - [Shiv](#shiv)
+  - [Suhaib](#suhaib)
+  - [Expense structure](#expense-structure)
+  - [50K - Rentals](#50k---rentals)
+- [Exports](#exports)
 
 # Promodeagro key focus 
 -   Only focus on Creeper && Animals (Chickens / Mutton / Fish)
@@ -27,8 +37,34 @@
     -   Implement Oil / Masala making machine
 
 # Peoplewise responsibilities
+## 
+- Talk Malla Reddy
+- Decide on Animal after evaluation
+- Start murmura once the loan is availed
+- Start immediately raw chicken 40 kg - 
+- Ashish tukai daily will get 50kg Fish -- 1500
+- Start 20 Thali System(Rice / Daal / Veg / Fish / Chatni) - 1000
+- Start Snacks (Fish Cutlet / Chicken Cutlet / Muglai / Eggroll) -1000
+
+Salman / Ashis / Akbar
+
+Santu / Suhag / Bappa / Tukai / Mihir / Papai / Bhombal / Bhombal1 / Bhombal2 / Bibhas / Pradeep 
+
+Atmakur -- Narayan / Sujit - Atmakur - Creeper + Chicken
+
+Walligunda - Beer Singh(Animal) / Bidyut(Murmura + Creeper)
+
+Bibhas / Pradeep 
+  - Fish Cutting 
+  - Lunch Box prep
+  - Snacks (Bappa / Tukai Wife Help)
+
+Santu - Suhag - Packer Morning - Rider Evening
+Rider - Bappa / Tukai / Mihir / Papai / Bhombal / Bhombal1 / Bhombal2
+
 
 ## Salman
+
    Focus on bulk procurement of Ginger/ Garlic / Onion and Storage 
    Animal maintenance
    Murmura / Chirua production and sale
@@ -82,3 +118,43 @@
    All usecases/ testcases docs monitoring
    All loans / Credit Cards payments
 
+## Expense structure
+
+1.1L -
+Sohail / Umran / Sukanto -50
+Furqhan / Fatima / Shaistha -30
+Designer - Uttam / Shiv -20
+Suhaib - PM -10
+
+1.5L - Agri Salary
+-  Salman - Procurement 
+-  Ashish - Grocery/Accounts
+  
+Atmakur
+-  Narayan Das 
+-  Sujit Mahata 
+
+Walligunda
+-  Bibhas(Murmura)
+-  Bir Singh Hansda (animal)
+-  Suka (creeper/animal)
+
+Delivery --
+-  Bappa Das 
+-  Nabaraj Das 
+-  Santu Mahato 
+-  Debnath Murmu 
+-  Shoag Roy 
+-  Mihir Hasda 
+-  Papai Debnath 
+
+   50K - Rentals
+------------------------------
+3.1L
+
+# Exports
+
+Exports:
+https://sellercentral.amazon.com/
+Login Details:
+support@promodeagro.com / Apple@1976
