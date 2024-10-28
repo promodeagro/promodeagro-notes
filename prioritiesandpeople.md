@@ -3,8 +3,10 @@
 - [Some immediate changes](#some-immediate-changes)
 - [Peoplewise responsibilities](#peoplewise-responsibilities)
   - [](#)
-  - [Salman](#salman)
-  - [Ashis](#ashis)
+  - [Salman (procurement)](#salman-procurement)
+  - [Ashish](#ashish)
+  - [Sohail](#sohail)
+  - [Ghouse](#ghouse)
   - [Akbar](#akbar)
   - [Papu](#papu)
   - [Uttam](#uttam)
@@ -15,6 +17,7 @@
 - [Exports](#exports)
 
 # Promodeagro key focus 
+
 -   Only focus on Creeper && Animals (Chickens / Mutton / Fish)
 -   Focus on papaya / drumsticks 
 
@@ -38,11 +41,13 @@
 
 # Peoplewise responsibilities
 ## 
+P1 - Promode Agro Partnership Deed + Address Change + NOC for sidesh + Promode Agro Private Limited 
+(sumanth - +91 99665 28005 ) + Venu Gopal (PF - +91 73966 06328 - TAN)
 - Talk Malla Reddy
 - Decide on Animal after evaluation
 - Start murmura once the loan is availed
 - Start immediately raw chicken 40 kg - 
-- Ashish tukai daily will get 50kg Fish -- 1500
+- Suhaag/Tukai daily will get 50kg Fish -- 1500
 - Start 20 Thali System(Rice / Daal / Veg / Fish / Chatni) - 1000
 - Start Snacks (Fish Cutlet / Chicken Cutlet / Muglai / Eggroll) -1000
 
@@ -62,58 +67,75 @@ Bibhas / Pradeep
 Santu - Suhag - Packer Morning - Rider Evening
 Rider - Bappa / Tukai / Mihir / Papai / Bhombal / Bhombal1 / Bhombal2
 
-
-## Salman
-
-   Focus on bulk procurement of Ginger/ Garlic / Onion and Storage 
+## Salman (procurement)
+   Site Visit
    Animal maintenance
+   F2C
+   Focus on bulk procurement of Ginger/ Garlic / Onion and Storage
    Murmura / Chirua production and sale
    Focus on Creeper Production
    Focus on Papaya && Drumsticks
    Monthly elctricity bills && maintenance
 
-## Ashis 
--   Monday-Friday - Daily Veggies procurement
+## Ashish
+
+-   Fish Purchase
 -   Groceries Business
 -   Cooked Food business and quality monitoring
 -   Daily Accounting
 
+## Sohail 
+   Complete Operation (Procurement / Packer / Rider / Account)
+
+## Ghouse
+
+   Chicken / Mutton / Fish
+   Work on exports
+   IT consulting 
+
 ## Akbar
--   Marketing campaign for IT materials of Papu Sir
+
+-   Ptr Technology 
 -   Marketing of Agri Products ( Daily Campaigns)
--   Look after entire delivery channel
--   Chicken / Fish / Mutton procurement and sell
 -   Work on Exports
 
 ## Papu 
--   Daily finance meeting with ashis
--   Saturday - Sunday - deliveries
+
+-   Release / Operation Management of Promode Ecommerce
+-   Make money with IT job + Freelancing
+-   Daily Meet with Akbar 
+-   Saturday - Sunday - Farm Visit
 
 ## Uttam 
-
-   Entire Packaging in charge- show innovations in packaging
-   Sales of Murmura etc products
-   Sat/ Sunday - delivery
-   Mon-Fri - Design
+   -  PTR Technology Design
+   -  Papu's job search
+   -  Digital Marketing 
+   -  Sunday Market  
 
 ## Shiv 
-   Sales of Murmura etc products
-   Sat/ Sunday - delivery
-   Mon-Fri - Design
-
+   -  PTR Technology Design
+   -  Papu's job search
+   -  Digital Marketing   
+   -  Sunday Market  
 
 ## Suhaib 
-
-   All vehicle Maintenance (4 wheeler / 3 wheeler / 2 two weehlers)
-   Farm Tractors / Rotavators / electricity / Drinking Water / Pumps / Drips pipes / Sanitary Pipes / Fertilizer / Water Pipes - weekly audit
+   -  Papu's job search
+   -  All vehicle Maintenance (4 wheeler / 3 wheeler / 2 two wheelers)
+   -  Electricity Bill Pay  
+   -  LinkedIn prospect search 
+   -  Investor search
+   -  Multiple OTP providers / Multiple Bank Accounts / Multiple Payment Scanners / Multiple POS / Internet providers maintenance / Payment Gateway / PF / TAN / SALARY / FINANCE
+   -  TAN / PF / ESI - IT filling + PF deposits + Salary Deposits - Monthly
+   
+   <!-- Farm Tractors / Rotavators / electricity / Drinking Water / Pumps / Drips pipes / Sanitary Pipes / Fertilizer / Water Pipes - weekly audit
    
    TAN / PF / ESI - IT filling + PF deposits + Salary Deposits - Monthly
    
    Any purchase && Procurment ( SEED/ Gobar / Compost etc)
    
-   Entire Promode Agro documentation consolidation
+   Entire Promode Agro documentation consolidation -->
 
-   Multiple OTP providers / Multiple Bank Accounts / Multiple Payment Scanners / Multiple POS /internet providers maintenance
+   
 
    All usecases/ testcases docs monitoring
    All loans / Credit Cards payments
