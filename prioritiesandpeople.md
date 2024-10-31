@@ -1,8 +1,7 @@
 
 - [Promodeagro key focus](#promodeagro-key-focus)
-- [Some immediate changes](#some-immediate-changes)
 - [Peoplewise responsibilities](#peoplewise-responsibilities)
-  - [](#)
+- [Some immediate changes](#some-immediate-changes)
   - [Salman (procurement)](#salman-procurement)
   - [Ashish](#ashish)
   - [Sohail](#sohail)
@@ -17,9 +16,33 @@
 - [Exports](#exports)
 
 # Promodeagro key focus 
-
 -   Only focus on Creeper && Animals (Chickens / Mutton / Fish)
 -   Focus on papaya / drumsticks 
+
+# Peoplewise responsibilities
+ - P1 - Promode Agro Partnership Deed + Address Change + NOC for sidesh + Promode Agro Private Limited 
+(sumanth - +91 99665 28005 ) + Venu Gopal (PF - +91 73966 06328 - TAN)
+- Talk Malla Reddy -done
+- Decide on Animal after evaluation 
+- Start murmura once the loan is availed
+- Start immediately raw chicken  
+- Suhaag/Tukai daily will get fish
+- Start 20 Thali System(Rice / Daal / Veg / Fish / Chatni) - 1000
+- Start Snacks (Fish Cutlet / Chicken Cutlet / Muglai / Eggroll) -1000
+
+Salman / Ashis / Akbar
+Santu / Suhag / Bappa / Tukai / Mihir / Papai / Bhombal / Bhombal1 / Bhombal2 / Bibhas / Pradeep 
+Atmakur -- Narayan / Sujit - Atmakur - Creeper + Chicken
+Walligunda - Beer Singh(Animal) / Bidyut(Murmura + Creeper)
+
+Bibhas / Pradeep 
+  - Fish Cutting 
+  - Lunch Box prep
+  - Snacks (Bappa / Tukai Wife Help)
+
+Santu - Suhag - Packer Morning - Rider Evening
+Rider - Bappa / Tukai / Mihir / Papai / Bhombal / Bhombal1 / Bhombal2
+
 
 # Some immediate changes
 
@@ -39,33 +62,6 @@
     -   Implement long term storage of onions / ginger / garlic
     -   Implement Oil / Masala making machine
 
-# Peoplewise responsibilities
-## 
-P1 - Promode Agro Partnership Deed + Address Change + NOC for sidesh + Promode Agro Private Limited 
-(sumanth - +91 99665 28005 ) + Venu Gopal (PF - +91 73966 06328 - TAN)
-- Talk Malla Reddy
-- Decide on Animal after evaluation
-- Start murmura once the loan is availed
-- Start immediately raw chicken 40 kg - 
-- Suhaag/Tukai daily will get 50kg Fish -- 1500
-- Start 20 Thali System(Rice / Daal / Veg / Fish / Chatni) - 1000
-- Start Snacks (Fish Cutlet / Chicken Cutlet / Muglai / Eggroll) -1000
-
-Salman / Ashis / Akbar
-
-Santu / Suhag / Bappa / Tukai / Mihir / Papai / Bhombal / Bhombal1 / Bhombal2 / Bibhas / Pradeep 
-
-Atmakur -- Narayan / Sujit - Atmakur - Creeper + Chicken
-
-Walligunda - Beer Singh(Animal) / Bidyut(Murmura + Creeper)
-
-Bibhas / Pradeep 
-  - Fish Cutting 
-  - Lunch Box prep
-  - Snacks (Bappa / Tukai Wife Help)
-
-Santu - Suhag - Packer Morning - Rider Evening
-Rider - Bappa / Tukai / Mihir / Papai / Bhombal / Bhombal1 / Bhombal2
 
 ## Salman (procurement)
    Site Visit
