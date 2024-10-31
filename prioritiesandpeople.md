@@ -14,6 +14,7 @@
   - [Expense structure](#expense-structure)
   - [50K - Rentals](#50k---rentals)
 - [Exports](#exports)
+- [Some immediate backlogs](#some-immediate-backlogs)
 
 # Promodeagro key focus 
 -   Only focus on Creeper && Animals (Chickens / Mutton / Fish)
@@ -115,6 +116,7 @@ Rider - Bappa / Tukai / Mihir / Papai / Bhombal / Bhombal1 / Bhombal2
    -  Sunday Market  
 
 ## Suhaib 
+
    -  Papu's job search
    -  All vehicle Maintenance (4 wheeler / 3 wheeler / 2 two wheelers)
    -  Electricity Bill Pay  
@@ -176,3 +178,9 @@ Exports:
 https://sellercentral.amazon.com/
 Login Details:
 support@promodeagro.com / Apple@1976
+
+# Some immediate backlogs
+
+- get refunds and AC from Giridhari 
+- Get refunds from Old landlord
+- fix commercial meters
