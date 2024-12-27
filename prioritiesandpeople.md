@@ -1,6 +1,5 @@
+<!-- TOC -->
 
-- [Promodeagro key focus](#promodeagro-key-focus)
-- [Peoplewise responsibilities](#peoplewise-responsibilities)
 - [Some immediate changes](#some-immediate-changes)
   - [Salman (procurement)](#salman-procurement)
   - [Ashish](#ashish)
@@ -15,22 +14,22 @@
   - [50K - Rentals](#50k---rentals)
 - [Exports](#exports)
 - [Some immediate backlogs](#some-immediate-backlogs)
+  - [IT Activities](#it-activities)
+    - [API Team](#api-team)
+    - [Design Team](#design-team)
 
-# Promodeagro key focus 
--   Only focus on Creeper && Animals (Chickens / Mutton / Fish)
--   Focus on papaya / drumsticks 
-
-# Peoplewise responsibilities
- - P1 - Promode Agro Partnership Deed + Address Change + NOC for sidesh + Promode Agro Private Limited 
-(sumanth - +91 99665 28005 ) + Venu Gopal (PF - +91 73966 06328 - TAN)
-- Talk Malla Reddy -done
-- Decide on Animal after evaluation 
-- Start murmura once the loan is availed
-- Start immediately raw chicken  
-- Suhaag/Tukai daily will get fish
-- Start 20 Thali System(Rice / Daal / Veg / Fish / Chatni) - 1000
-- Start Snacks (Fish Cutlet / Chicken Cutlet / Muglai / Eggroll) -1000
-
+<!-- /TOC -->
+<!-- /TOC -->
+<!-- /TOC -->
+<!-- /TOC -->
+<!-- /TOC -->
+<!-- /TOC -->
+<!-- /TOC -->
+<!-- /TOC -->
+<!-- /TOC -->
+<!-- /TOC -->
+<!-- /TOC -->
+<!-- /TOC -->
 Salman / Ashis / Akbar
 Santu / Suhag / Bappa / Tukai / Mihir / Papai / Bhombal / Bhombal1 / Bhombal2 / Bibhas / Pradeep 
 Atmakur -- Narayan / Sujit - Atmakur - Creeper + Chicken
@@ -82,49 +81,48 @@ Rider - Bappa / Tukai / Mihir / Papai / Bhombal / Bhombal1 / Bhombal2
 -   Daily Accounting
 
 ## Sohail 
-   Complete Operation (Procurement / Packer / Rider / Account)
+
+-  Complete Operation (Procurement / Packer / Rider / Account)
 
 ## Ghouse
 
-   Chicken / Mutton / Fish
+   Farm 
+   Chicken / Mutton
    Work on exports
    IT consulting 
 
 ## Akbar
 
 -   Ptr Technology 
--   Marketing of Agri Products ( Daily Campaigns)
+-   Marketing ( Daily Campaigns)
 -   Work on Exports
 
 ## Papu 
-
 -   Release / Operation Management of Promode Ecommerce
 -   Make money with IT job + Freelancing
--   Daily Meet with Akbar 
--   Saturday - Sunday - Farm Visit
+-   Daily Meet with Sohail
+
 
 ## Uttam 
-   -  PTR Technology Design
-   -  Papu's job search
-   -  Digital Marketing 
-   -  Sunday Market  
+
+   -  ERP Design
+   -  Sat /Sunday full Operation  
 
 ## Shiv 
-   -  PTR Technology Design
-   -  Papu's job search
-   -  Digital Marketing   
-   -  Sunday Market  
+
+   -  ERP Design
+   -  Sat /Sunday full Operation  
 
 ## Suhaib 
-
-   -  Papu's job search
    -  All vehicle Maintenance (4 wheeler / 3 wheeler / 2 two wheelers)
-   -  Electricity Bill Pay  
-   -  LinkedIn prospect search 
-   -  Investor search
+  
+   -  Electricity Bill Pay (Farm + Shop)   
    -  Multiple OTP providers / Multiple Bank Accounts / Multiple Payment Scanners / Multiple POS / Internet providers maintenance / Payment Gateway / PF / TAN / SALARY / FINANCE
    -  TAN / PF / ESI - IT filling + PF deposits + Salary Deposits - Monthly
-   
+   -  LinkedIn prospect search 
+      -  DevOps
+      -  Investor search
+  
    <!-- Farm Tractors / Rotavators / electricity / Drinking Water / Pumps / Drips pipes / Sanitary Pipes / Fertilizer / Water Pipes - weekly audit
    
    TAN / PF / ESI - IT filling + PF deposits + Salary Deposits - Monthly
@@ -184,3 +182,19 @@ support@promodeagro.com / Apple@1976
 - get refunds and AC from Giridhari 
 - Get refunds from Old landlord
 - fix commercial meters
+
+## IT Activities 
+
+### API Team
+
+1. Common User Pool Cognito Pool --
+2. Slot creation API
+3. Assign Order to Packer
+4. Location && Shortest Path
+5. A NodeJs Script that will populate all initial Data
+   1. Recover from exiting database backup
+   2. Generate and store
+
+### Design Team
+-  Slot creation
+-  B2C Design
