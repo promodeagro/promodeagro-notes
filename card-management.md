@@ -1,12 +1,32 @@
-HDFC -
-Yes Bank -
-Indus
-ICICI-
+ICICI
+Axis -
+Yes Bank-done
 HSBC- 
-Amex--26 && 29
-SBI- 31st Dec- 239000
-RBL -Jan01 - 268568
-IDFC -3.05L 01-Jan
-Axis -6.8L -07-Jan
+HDFC1 -65k
+HDFC2-
+Amex-
+IDFC -
+SBI
+RBL
+Indus-
 Indian-
 
+zubair-
+hdfc-
+citi
+amex-50k
+
+JOYNAGAR RETAIL PVT LTD
+METRO CASH AND CARRY
+ICICI*COCO SHAIKPET DHA HYDERABAD
+RITICARE ONLINE SOL Bhubaneswar
+AMAZON Mumbai
+Paytm*INNOVATIVERETAILC Noida
+Razorpay*Tnb Enterprise Gautam Buddha N
+Bighaat.com ONLINE Bangalore
+Agribegri.com Enterprise
+Farmkart Enterprises
+Agriplex Corporation
+Mahboob store
+Al sidra mart
+Uzair digitals
